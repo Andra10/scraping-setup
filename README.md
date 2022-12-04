@@ -1,6 +1,7 @@
 # scraping-intro-setup
 
-Scraping infos from "https://pagellapolitica.it", italian website about italian politicians statements & fact-checkings 
+Scraping infos from "https://pagellapolitica.it", website about italian politicians statements & fact-checkings 
+infos: name, boolean value, date, actual fact-check
 
 # How to start
 
